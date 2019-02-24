@@ -16,12 +16,14 @@
 }
 .navigation-li{
 	margin-right: 15px;
+	transition: all 0.3s ease 0.3s;
 }
 .navigation-a{
 	color: #3D58A6;
 	font-size: 24px;
 	font-family: 'Roboto', sans-serif;
 }
+
 .navigation-li:last-child{
 	margin-right: 0px
 }
