@@ -93,6 +93,41 @@
 	color: #fff;
 	font-size: 24px;
 	padding-bottom: 30px;
+}
+.Third-box{
+	background-color: #BDCCD4;
+	padding: 38px 0px 88px 0px;
+}
+.Third-box-header{
+	display: flex;
+	align-content: flex-start;
+	margin-bottom: 30px;
+}
+.p2:after{
+	content: '';
+	height: 20px;
+	width: 2px;
+	background-color: #3D58A6;
+	margin: 0px 10px;
+	display: inline-block;
 
-
+}
+.par-style{
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+	color: #3D58A6;
+}
+.under{
+	width: 270px;
+	height: 60px;
+	background-color: #E6E6E6;
+	display: block;
+	padding: 16px
+}
+.ff{
+	display: block;
+}
+.under-p{
+	font-family: 'Roboto', sans-serif;
+	font-size: 22px;
 }
