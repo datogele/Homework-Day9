@@ -1,0 +1,17 @@
+.container{
+	width: 1170px;
+	margin:0 auto;
+}
+.flex{
+	display: flex;
+	justify-content: space-between;
+}
+.navigation-ul{
+	display: flex;
+}
+.navigation-li{
+	margin-right: 15px;
+}
+.navigation-li:last-child{
+	margin-right: 0px
+}
