@@ -131,3 +131,23 @@
 	font-family: 'Roboto', sans-serif;
 	font-size: 22px;
 }
+.grey-bg{
+	background-color: #E6E6E6;
+	padding: 35px 0 30px 0;
+}
+.shvili{
+	background-color: #F2F2F2;
+}
+.shvilishvili{
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+}
+.shvilishvili p{
+	width: 340px;
+}
+.read{
+	display: flex;
+	justify-content: flex-end;
+	margin:0 5px 15px 0;
+}
